@@ -1,0 +1,129 @@
+.container-fluid{
+    margin-top: -30px;
+    background: #192c59;
+    margin-bottom: -20px;
+}
+.conta{
+    background: #192c59;
+    color: white;
+    padding: 40px;
+}
+.head h1{
+    font-size: 45px;
+}
+.view-container button{
+    border: 1px solid white;
+    background: #192c59;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    border-radius: 5px;
+}
+.headin h1{
+    color: #192c59;
+}
+.view-container button:hover{
+    border-color: #3b82f6;
+}
+.img-container img{
+    padding-left: 150px;
+    margin-top: -40px;
+    margin-bottom: -40px;
+}
+.icon-container{
+    background: rgb(255, 255, 255);
+    margin-right: 330px;
+    padding: 10px;
+}
+.about-container{
+    background-color: #f4f4f5;
+}
+.text-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.text-divider::before,
+.text-divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #d1d5db;
+}
+
+.text-divider span {
+    padding: 0 12px;
+    color: #6b7280;
+    font-size: 14px;
+}
+.headi h1{
+    color: #192c59;
+}
+.buttonon button{
+    background: #3b82f6;
+    border: 1px solid #3b82f6;
+    border-radius: 5px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;    
+}
+.buttonon button:hover{
+    background-color: #2563eb;
+}
+.card img{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.card{
+    box-shadow: 5px 5px 20px rgb(120, 112, 112);
+}
+.project-container{
+    background: #f1f5f9;
+}
+.experience-container{
+    background: #e2e8f0;
+}
+#hj{
+    padding-left: 200px;
+}
+#hj hr{
+    margin-right: 50px;
+    margin-left: -150px;
+}
+.testimonial-container{
+    background: #0a2c7d;
+}
+.image-container img{
+    border-radius: 100%;
+}
+.form-container{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.contact-container{
+    background: #256fe6;
+}
+.list-container ul{
+    list-style-type: none;
+}
+.list-container ul li a{
+    text-decoration: none;
+    color: white;
+}
+.list-container ul li a:hover{
+    color: #3b82f6;
+}
+.footer-conter{
+    background: #1e293b;
+}
+#jhn{
+    margin-top: -30px;
+}
